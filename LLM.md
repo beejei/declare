@@ -24,3 +24,6 @@
 - [Game Generator](https://twitter.com/thisisgamecom/status/1765558485419483372)
 - [서비스 기획자는 '미드저니' 이렇게 활용합니다](https://yozm.wishket.com/magazine/detail/2472/)
 - [v0.dev - Introducing AI SDK 3.0 with Generative UI support](https://vercel.com/blog/ai-sdk-3-generative-ui)
+
+7. Operate a Computer
+- https://github.com/OthersideAI/self-operating-computer
