@@ -15,6 +15,7 @@
 - [build a "Chat with your code" RAG application](https://twitter.com/akshay_pachaar/status/1765716620847300689)
 - [AI-first pull request reviewer with context-aware feedback](https://twitter.com/coderabbitai/status/1762409525762515117)
 - [RAG for AI-Generated Content](https://twitter.com/omarsar0/status/1765414854397985175)
+- [When Simple RAG Fails (and how to fix it)](https://twitter.com/hwchase17/status/1767254621628837958)
 
 5. Overview
 - ["퍼셉트론에서 트랜스포머, CNN까지" 신경망 기본 개념과 최신 스타일의 이해](https://twitter.com/jrogue/status/1765561762471104756)
