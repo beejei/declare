@@ -27,3 +27,6 @@
 
 7. Operate a Computer
 - https://github.com/OthersideAI/self-operating-computer
+
+8. Build CoPilot from GPT
+- https://twitter.com/kodingwarrior/status/1767335628285575414
