@@ -32,6 +32,17 @@
 8. Build CoPilot from GPT
 - https://twitter.com/kodingwarrior/status/1767335628285575414
 
+9. Leverage via Python
+- https://www.youtube.com/playlist?list=PL0TnWnPQhDj2XHssyPQvDru4tZipvhmrj
+
+10. Leverage via JS
+
+100. How Big Companies Move
+- Apple
+  - [MLX: Hugging Face's Transformers got some MLX support!}(https://github.com/huggingface/transformers/releases/tag/v4.39.0)
+    - Tokenize directly to MLX arrays
+    - Load MLX formatted safetensors to use with Transformers
+
 
 #### Official Documents & Learning Courses
 1. [Huggingface Transformers](https://github.com/huggingface/transformers/blob/main/README_ko.md)
