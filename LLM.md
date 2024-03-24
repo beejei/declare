@@ -10,6 +10,7 @@
 
 3. Local LLM - Memory Efficient
 - https://twitter.com/AnimaAnandkumar/status/1765613815146893348
+- [PEFT](https://4n3mone.tistory.com/7)
 
 4. Chat with your Code
 - [build a "Chat with your code" RAG application](https://twitter.com/akshay_pachaar/status/1765716620847300689)
