@@ -45,4 +45,15 @@
 
 
 #### Official Documents & Learning Courses
-1. [Huggingface Transformers](https://github.com/huggingface/transformers/blob/main/README_ko.md)
+1. [Huggingface - Transformers](https://github.com/huggingface/transformers/blob/main/README_ko.md)
+2. [Microsoft - AI For Beginners](https://microsoft.github.io/AI-For-Beginners/)
+3. [Langchain Tutorial (Kr)](https://wikidocs.net/book/14314)
+4. [Nvidia - Generative AI Explained](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-07+V1/)
+5. [Nvidia - Getting Started with AI on Jetson Nano](https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/)
+6. [Nvidia - Building A Brain in 10 Minutes](https://courses.nvidia.com/courses/course-v1:DLI+T-FX-01+V1/)
+7. [Nvidia - Building Video AI Applications at the Edge on Jetson Nano](https://courses.nvidia.com/courses/course-v1:DLI+S-IV-02+V2/)
+8. [Nvidia - Augment your LLM Using Retrieval Augmented Generation](https://courses.nvidia.com/courses/course-v1:NVIDIA+S-FX-16+v1/)
+9. [Nvidia - Building RAG Agents with LLMs](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-15+V1/)
+10. [Nvidia - Accelerate Data Science Workflows with Zero Code Changes](https://courses.nvidia.com/courses/course-v1:DLI+T-DS-03+V1/)
+11. [Nvidia - Introduction AI Data Center](https://www.coursera.org/learn/introduction-ai-data-center)
+
