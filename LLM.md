@@ -58,4 +58,4 @@
 10. [Nvidia - Building RAG Agents with LLMs](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-15+V1/)
 11. [Nvidia - Accelerate Data Science Workflows with Zero Code Changes](https://courses.nvidia.com/courses/course-v1:DLI+T-DS-03+V1/)
 12. [Nvidia - Introduction AI Data Center](https://www.coursera.org/learn/introduction-ai-data-center)
-
+13. [IBM - Data Analysis with Python](https://www.clcoding.com/2024/03/data-analysis-with-python.html)
