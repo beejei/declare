@@ -37,7 +37,9 @@
 - https://www.youtube.com/playlist?list=PL0TnWnPQhDj2XHssyPQvDru4tZipvhmrj
 - [DrawData: Draw data from Jupiter Notebook](https://twitter.com/akshay_pachaar/status/1753032964307570756)
 10. Leverage via JS
-
+11. Jupiter Notebook
+- [Zerve: A new web-based IDE. It's block-based like a notebook but follows a different philosophy](https://twitter.com/svpino/status/1754491800587227382)
+  
 100. How Big Companies Move
 - Apple
   - [MLX: Hugging Face's Transformers got some MLX support!}(https://github.com/huggingface/transformers/releases/tag/v4.39.0)
