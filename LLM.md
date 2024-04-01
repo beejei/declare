@@ -35,7 +35,7 @@
 
 9. Leverage via Python
 - https://www.youtube.com/playlist?list=PL0TnWnPQhDj2XHssyPQvDru4tZipvhmrj
-
+- [DrawData: Draw data from Jupiter Notebook](https://twitter.com/akshay_pachaar/status/1753032964307570756)
 10. Leverage via JS
 
 100. How Big Companies Move
@@ -43,6 +43,8 @@
   - [MLX: Hugging Face's Transformers got some MLX support!}(https://github.com/huggingface/transformers/releases/tag/v4.39.0)
     - Tokenize directly to MLX arrays
     - Load MLX formatted safetensors to use with Transformers
+- LG
+  - [코드 생성형 GenAI 개발](https://twitter.com/hyunbinseo97/status/1753037205461942570)
 
 
 #### Official Documents & Learning Courses
