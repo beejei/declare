@@ -39,7 +39,10 @@
 10. Leverage via JS
 11. Jupiter Notebook
 - [Zerve: A new web-based IDE. It's block-based like a notebook but follows a different philosophy](https://twitter.com/svpino/status/1754491800587227382)
-  
+
+12. Algorithms
+- [Top 8 Time-Series Algorithms](https://twitter.com/mdancho84/status/1755718999592083729)
+
 100. How Big Companies Move
 - Apple
   - [MLX: Hugging Face's Transformers got some MLX support!}(https://github.com/huggingface/transformers/releases/tag/v4.39.0)
@@ -63,3 +66,4 @@
 11. [Nvidia - Accelerate Data Science Workflows with Zero Code Changes](https://courses.nvidia.com/courses/course-v1:DLI+T-DS-03+V1/)
 12. [Nvidia - Introduction AI Data Center](https://www.coursera.org/learn/introduction-ai-data-center)
 13. [IBM - Data Analysis with Python](https://www.clcoding.com/2024/03/data-analysis-with-python.html)
+14. [Stanford CS25 - Transformers United](https://twitter.com/akshay_pachaar/status/1756656960047313401)
