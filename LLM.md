@@ -68,3 +68,4 @@
 13. [IBM - Data Analysis with Python](https://www.clcoding.com/2024/03/data-analysis-with-python.html)
 14. [Stanford CS25 - Transformers United](https://twitter.com/akshay_pachaar/status/1756656960047313401)
 15. [LLM 시대의 수학](https://twitter.com/puzzlist/status/1768964857733497308)
+16. [LangChain 한국어 튜토리얼](https://github.com/teddylee777/langchain-kr)
