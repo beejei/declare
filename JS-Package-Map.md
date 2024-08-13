@@ -1,41 +1,43 @@
-### This is simple when-to-use-what document
+### This is a simple when-to-use-what document
 
 
-#### I need to place something floating component around existing component
+#### I need to place something floating component around the existing component
 - https://github.com/floating-ui/floating-ui
-#### I need client-side web framework
+#### I need a client-side web framework
 1. Especially React.js oriented
-  a) Fancy, responsive and animation ready: https://github.com/tamagui/tamagui
+  a) Fancy, responsive, and animation ready: https://github.com/tamagui/tamagui
 2. Especially Vue.js oriented
-#### I need server-side web framework
+#### I need a server-side web framework
 - https://github.com/honojs/hono
-- 
-#### I need self-running Auth Server
+#### I need a framework for building a CLI application
+- https://github.com/SBoudrias/Inquirer.js
+- Ref: https://github.com/lirantal/nodejs-cli-apps-best-practices
+#### I need a self-running Auth Server
 - https://news.hada.io/topic?id=16249
 #### I need something syntax-aware document diff tool
 - https://github.com/Wilfred/difftastic
-#### I need a super desktop-UI for git operation
+#### I need a super desktop UI for the git operation
 - https://github.com/gitbutlerapp/gitbutler
-#### I need datasets for train LLM
+#### I need datasets to train LLM
 - https://github.com/mlabonne/llm-datasets/
-#### I need to implement a payment system toward a bank
+#### I need to implement a payment system for a bank
 - https://github.com/Svapnil/iso20022.js
 
 #### I need a tool to draw UML
 - https://nomnoml.com/
 
-#### I need a tool to draw Architecture Diagram
+#### I need a tool to draw an architectural diagram
 - https://www.reddit.com/r/programming/comments/1ednm4i/software_architecture_diagrams_with_c4_model
 #### I need to assess video quality
 - https://github.com/Netflix/vmaf
-#### I need public official pictogram
+#### I need a public pictogram
 - Check aiga(미국 그래픽아트 협회)
 - 
 
 
 
 ### Bonus: SaaS
-#### I need a service does a performance benchmark for all kind of devices
+#### I need a service that does a performance benchmark for all kinds of devices
 - https://pagespeed.web.dev/
 - 
 ### Bonus: Book
